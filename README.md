@@ -6,4 +6,4 @@ Frontend and Backend application for Information Retrieval.
 
 ```sh
 stack exec condor-web
-``
+```
